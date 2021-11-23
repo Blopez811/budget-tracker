@@ -8,7 +8,10 @@
   * [Questions](https://github.com/Blopez811/budget-tracker#questions)
 
   ## Description
-   This is a budget tracking app that allows you to keep track of your deposits and expendituresl
+   This is a budget tracking app that allows you to keep track of your deposits and expenditures.
+   
+   ![Image 11-23-21 at 5 42 PM](https://user-images.githubusercontent.com/84877211/143146212-9cc190a9-49cb-43b1-b9e2-c88ee537db17.jpeg)
+
 
   ## Installation
     No installation needed.
